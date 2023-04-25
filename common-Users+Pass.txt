@@ -1,6 +1,7 @@
 pass
 password
 admin
+user
 username
 tomcat
 123456
